@@ -1,0 +1,26 @@
+# Ambiente virtual
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build / distribuicao
+build/
+dist/
+*.spec
+
+# Icone gerado (o fonte é icon.png)
+assets/icon.ico
+
+# Logs de teste manual
+err.txt
+out.txt
+
+# Editor
+.vscode/
+
+# Posição de janela salva localmente
+.maioridade_calc_pos.json
