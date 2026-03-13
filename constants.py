@@ -1,5 +1,5 @@
 APP_NAME = "Maioridade Calc"
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.0.1"
 APP_AUTHOR = "Issao Hanaoka Junior"
 APP_EMAIL = "issaojr.dev@gmail.com"
 APP_REPO = "https://github.com/issaojr/maioridade-calc"

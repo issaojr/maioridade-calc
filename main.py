@@ -30,7 +30,7 @@ def main(page: ft.Page):
     # --- Configurações de Janela ---
     page.title = "Maioridade Calc"
     page.window.width = 300
-    page.window.height = 340
+    page.window.height = 300
     page.window.always_on_top = True
     page.window.resizable = False
     page.window.title_bar_hidden = True
