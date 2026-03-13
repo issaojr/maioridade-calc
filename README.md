@@ -1,6 +1,6 @@
 # Maioridade Calc
 
-![Version](https://img.shields.io/badge/vers%C3%A3o-1.0.0-blue) ![License](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
+![Version](https://img.shields.io/badge/vers%C3%A3o-1.0.1-blue) ![License](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
 
 Um widget de desktop minimalista para calcular idade e data de maioridade a partir de uma data de nascimento.
 
